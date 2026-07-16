@@ -160,3 +160,6 @@ fn main() {
 - `to_str() string`: Stringifies standard `Value` types. Returns an empty string for unconvertible types.
 - `to_int() int`: Safely extracts an integer, defaulting to `0` if the type mismatch occurs.
 - `to_bool() bool`: Safely extracts a boolean, defaulting to `false` if the type mismatch occurs.
+
+## License
+![License](https://img.shields.io/badge/License-MIT-white.svg)
